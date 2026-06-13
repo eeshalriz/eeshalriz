@@ -7,7 +7,6 @@ Specialising in financial volatility modelling, time-series analysis, and Bayesi
 
 ### 🔬 Research
 - **Bitcoin Volatility Forecasting** using GARCH-family models (GARCH, EGARCH, GJR-GARCH, IGARCH, Component GARCH)  
-  *Manuscript in preparation for journal submission — co-authored with academic supervisor*
 
 ---
 
@@ -31,8 +30,8 @@ Specialising in financial volatility modelling, time-series analysis, and Bayesi
 ---
 
 ### 📍 About
-- 🎓 BSc Statistical Data Science — First Class Honours (Expected 2026)
-- 📍 Abu Dhabi, UAE
+- 🎓 BSc Statistical Data Science — First Class Honours (Awarded 1 July 2026)
+- 📍 Abu Dhabi & Dubai, UAE 
 - 🤝 Open to quantitative research and data science roles
 
 ---
